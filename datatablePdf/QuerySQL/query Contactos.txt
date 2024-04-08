@@ -1,0 +1,15 @@
+INSERT INTO contactos (nombre, telefono, correo, direccion)
+VALUES
+('Juan Pérez', '1234567890', 'juan.perez@email.com', 'Calle 123, Ciudad, País'),
+('María López', '9876543210', 'maria.lopez@email.com', 'Avenida 456, Ciudad, País'),
+('Pedro Sánchez', '6543210987', 'pedro.sanchez@email.com', 'Carretera 789, Ciudad, País'),
+('Ana García', '5432109876', 'ana.garcia@email.com', 'Paseo 1012, Ciudad, País'),
+('Luis Fernández', '4321098765', 'luis.fernandez@email.com', 'Callejón 135, Ciudad, País'),
+('Carmen Rodríguez', '3210987654', 'carmen.rodriguez@email.com', 'Avenida del Parque, Ciudad, País'),
+('David Gómez', '2109876543', 'david.gomez@email.com', 'Calle de la Paz, Ciudad, País'),
+('Laura Martínez', '1098765432', 'laura.martinez@email.com', 'Avenida de la Amistad, Ciudad, País'),
+('José Hernández', '9876543210', 'jose.hernandez@email.com', 'Calle del Sol, Ciudad, País'),
+('Isabel Sánchez', '8765432109', 'isabel.sanchez@email.com', 'Avenida de la Luna, Ciudad, País'),
+('Antonio López', '7654321098', 'antonio.lopez@email.com', 'Calle de las Estrellas, Ciudad, País'),
+('Marta Pérez', '6543210987', 'marta.perez@email.com', 'Avenida de los Planetas, Ciudad, País'),
+('Pablo García', '5432109876', 'pablo.garcia@email.com', 'Calle de los Asteroides, Ciudad, País');
