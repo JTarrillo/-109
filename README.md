@@ -17,4 +17,4 @@ En la vista `Index.cshtml`, se utiliza DataTables para mostrar los contactos en 
 ## Resumen
 
 - **DbContext**: Maneja la conexión y las operaciones con la base de datos de contactos.
-- *
+- **Exportación a PDF**: Permite al usuario exportar los datos de la tabla de contactos a un archivo PDF directamente desde la vista utilizando DataTables y jsPDF.
